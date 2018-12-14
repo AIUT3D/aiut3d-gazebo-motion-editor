@@ -44,7 +44,7 @@ http://robocup-sim.gitlab.io/SimSpark/downloads.html
 
   `./motionEditor`
 * Set Nao body type in the motion editor
-* Set play mode to `PlayOn` via Gazebo.
+* Reset motion editor by clicking ![reset button](./icon32x32/reset-icon32x32.png).
 * Now you can start your motion design.
 * To add new keyframe to the list of keyframes, click
 ![add key frame button](./icon32x32/add-icon32x32.png) button.
@@ -60,7 +60,7 @@ and
 are supposed to move a keyframe up or down in the keyframes list. But this feature is not implemented yet. So pressing these two button has no effect for now.
 * `Auto Fall Recovery` checkbox specifies whether the robot should get up automatically in case of a fall or not. But due to some issues with accelerometer reading in Gazebo-robocup3ds, this feature is not working yet
 * Button
-<img src="./icon32x32/getup512x512.png" width="32"> is supposed to instruct the robot to get up in case it has fallen. But again due to some issues with accelerometer reading in Gazebo-robocup3ds, this feature is not working yet. So if the robot has fallen, just click the reset monitor so that the motion editor and Gazebo are reset to their initial state.
+<img src="./icon32x32/getup512x512.png" width="32"> is supposed to instruct the robot to get up in case it has fallen. But again due to some issues with accelerometer reading in Gazebo-robocup3ds, this feature is not working yet. So if the robot has fallen, just click the reset monitor button ![reset button](./icon32x32/reset-icon32x32.png) so that the motion editor and Gazebo are reset to their initial state.
 
 #### Motion file format
 * The created motions will be saved in a text file. Each line of the file will represent the joint values (in degrees) for one keyframe and . The order of the saved values for one keyframe (one line of motion file) are as follows:
