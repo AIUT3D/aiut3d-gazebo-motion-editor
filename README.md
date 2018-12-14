@@ -38,7 +38,7 @@ http://robocup-sim.gitlab.io/SimSpark/downloads.html
 #### Run
 * Start Gazebo-robocup3ds plugin from the terminal:
 
-  `:~$gazebo-robocup3ds`
+  `gazebo-robocup3ds`
 * Set the play mode to `BeforeKickOff` via Gazebo
 * Run the following command in an other terminal:
 
