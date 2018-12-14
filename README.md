@@ -96,7 +96,8 @@ are supposed to move a keyframe up or down in the keyframes list. But this featu
 #### User agreement
 * If you use this code for research purposes, please consider citing the following papers:
   * Izadi, Navid Hoseini, Mohamad Roshanzamir, and Maziar Palhang. "AIUT3D motion editor for 3D soccer simulation compatible with SimSpark physics engine." (https://ieeexplore.ieee.org/abstract/document/8406628/)
-  * Izadi, Navid Hoseini, Mohamad Roshanzamir, Mahdi Tajmir Riahi, Mahdi Abbasi, Seyed Yagoub Ashkoofaraz Soureshjani, Mohammad Amin Fahami, and Maziar Palhang. "AIUT3D 2017 Soccer Simulation 3D League Team Description Paper."(https://www.robocup2017.org/file/symposium/soccer_sim_3D/AIUT3D_TDP.pdf)#### Contact
+  * Izadi, Navid Hoseini, Mohamad Roshanzamir, Mahdi Tajmir Riahi, Mahdi Abbasi, Seyed Yagoub Ashkoofaraz Soureshjani, Mohammad Amin Fahami, and Maziar Palhang. "AIUT3D 2017 Soccer Simulation 3D League Team Description Paper."(https://www.robocup2017.org/file/symposium/soccer_sim_3D/AIUT3D_TDP.pdf)
+  #### Contact
 * If you have any questions, suggestions or bug report, please feel free to contact us:aiut3d@yahoo.com.
 
 #### References
